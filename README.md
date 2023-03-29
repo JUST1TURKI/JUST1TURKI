@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JUST1TURKI
-- 👀 I’m interested in Applications Development with Flutter & Data/Busniss Analysis
+- 👀 I’m interested in Applications Development with Flutter & Data/Business Analysis
 - 🌱 I’m currently learning Firebase 
 - 📫 How to reach me : Twitter: @_TurkiSultan
 
