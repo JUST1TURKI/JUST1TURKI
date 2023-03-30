@@ -1,9 +1,16 @@
-- 👋 Hi, I’m @JUST1TURKI
-- 👀 I’m interested in Applications Development with Flutter & Data/Business Analysis
-- 🌱 I’m currently learning Firebase 
-- 📫 How to reach me : Twitter: @_TurkiSultan
+# 👋 Hey, I’m @JUST1TURKI
 
-<!---
-JUST1TURKI/JUST1TURKI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**' Flutter developer & Data/Business analysis'**
+
+  Hello there! I'm a Junior Software Engineering student at King Fahd University of Petroleum and Minerals, and I'm really passionate about both Flutter development and      data/business analysis. I have experience working with a variety of technologies including Flutter, Dart, Python, SQL, Power BI. I believe that    my diverse skill set can be leveraged to create innovative and data-driven solutions. I'm always eager to learn and stay up to date with the latest trends and            technologies in the industry. I'm excited to see where my skills and passions take me in the future!
+
+### Languages and Tools
+<img align='left' alt="Dart" width="30px" style="padding-right:10px;" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
+<img align='left' alt="Flutter" width="30px" style="padding-right:10px;" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
+<img align='left' alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align='left' alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align='left' alt="Andoidst" width="30px" style="padding-right:10px;" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/>
+<img align='left' alt="React" width="30px" style="padding-right:10px;" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img align='left' alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align='left' alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align='left' alt="Tailwind" width="30px" style="padding-right:10px;" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
