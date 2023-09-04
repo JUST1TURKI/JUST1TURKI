@@ -6,7 +6,7 @@
 
 🐍 Proficient in Python and R, I use these languages for intricate data navigation, enabling manipulation, analysis, and visualization. Expertise in Power BI empowers me to turn raw data into insightful visuals, aiding decisions.
 
-🌌 I grasp Big Data's nuances, handling vast datasets, and understand concepts like distributed processing and Hadoop,MapReduce,Spark and Hive frameworks.
+🌌 I grasp Big Data's nuances, handling vast datasets, and understand concepts like distributed processing and Spark  framework.
 
 💡 Skilled in Data Modeling, I design efficient structures for analysis. I'm an AWS-savvy Data Engineer, building data pipelines using cloud tech.
 
